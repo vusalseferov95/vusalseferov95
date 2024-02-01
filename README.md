@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- Gmail: vusal.seferov8595@gmail.com
+- +994603770399 whatsapp
+- +994703770399 whatsapp
 
 <!---
 vusalseferov95/vusalseferov95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
